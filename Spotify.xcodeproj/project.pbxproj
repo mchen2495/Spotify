@@ -68,7 +68,9 @@
 		EF72F610263F515200D54CF1 /* SpotifyLoginScreen.png in Resources */ = {isa = PBXBuildFile; fileRef = EF72F60F263F515200D54CF1 /* SpotifyLoginScreen.png */; };
 		EF72F616263F546B00D54CF1 /* SpotifyHomeScreenDemo.gif in Resources */ = {isa = PBXBuildFile; fileRef = EF72F612263F545F00D54CF1 /* SpotifyHomeScreenDemo.gif */; };
 		EF72F618263F546B00D54CF1 /* SpotifyAddRemoveDemo.gif in Resources */ = {isa = PBXBuildFile; fileRef = EF72F614263F546800D54CF1 /* SpotifyAddRemoveDemo.gif */; };
-		EF72F619263F546B00D54CF1 /* SpotifySearchToLibraryDemo.gif in Resources */ = {isa = PBXBuildFile; fileRef = EF72F615263F546B00D54CF1 /* SpotifySearchToLibraryDemo.gif */; };
+		EF72F619263F546B00D54CF1 /* SpotifyLibraryDemo.gif in Resources */ = {isa = PBXBuildFile; fileRef = EF72F615263F546B00D54CF1 /* SpotifyLibraryDemo.gif */; };
+		EF72F630263F64C800D54CF1 /* SpotifySearchToLibraryDemo.gif in Resources */ = {isa = PBXBuildFile; fileRef = EF72F62E263F64C500D54CF1 /* SpotifySearchToLibraryDemo.gif */; };
+		EF72F631263F64C800D54CF1 /* SpotifySearchTilesDemo.gif in Resources */ = {isa = PBXBuildFile; fileRef = EF72F62F263F64C800D54CF1 /* SpotifySearchTilesDemo.gif */; };
 		EF912F5025F550EF000FD215 /* CategoryCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF912F4F25F550EF000FD215 /* CategoryCollectionViewCell.swift */; };
 		EF912F5325F55CB8000FD215 /* AllCategoriesResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF912F5225F55CB8000FD215 /* AllCategoriesResponse.swift */; };
 		EF912F5825F56499000FD215 /* CategoryCollectionViewCellViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF912F5725F56499000FD215 /* CategoryCollectionViewCellViewModel.swift */; };
@@ -144,7 +146,9 @@
 		EF72F60F263F515200D54CF1 /* SpotifyLoginScreen.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SpotifyLoginScreen.png; sourceTree = "<group>"; };
 		EF72F612263F545F00D54CF1 /* SpotifyHomeScreenDemo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SpotifyHomeScreenDemo.gif; sourceTree = "<group>"; };
 		EF72F614263F546800D54CF1 /* SpotifyAddRemoveDemo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SpotifyAddRemoveDemo.gif; sourceTree = "<group>"; };
-		EF72F615263F546B00D54CF1 /* SpotifySearchToLibraryDemo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SpotifySearchToLibraryDemo.gif; sourceTree = "<group>"; };
+		EF72F615263F546B00D54CF1 /* SpotifyLibraryDemo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SpotifyLibraryDemo.gif; sourceTree = "<group>"; };
+		EF72F62E263F64C500D54CF1 /* SpotifySearchToLibraryDemo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SpotifySearchToLibraryDemo.gif; sourceTree = "<group>"; };
+		EF72F62F263F64C800D54CF1 /* SpotifySearchTilesDemo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = SpotifySearchTilesDemo.gif; sourceTree = "<group>"; };
 		EF912F4F25F550EF000FD215 /* CategoryCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryCollectionViewCell.swift; sourceTree = "<group>"; };
 		EF912F5225F55CB8000FD215 /* AllCategoriesResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllCategoriesResponse.swift; sourceTree = "<group>"; };
 		EF912F5725F56499000FD215 /* CategoryCollectionViewCellViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryCollectionViewCellViewModel.swift; sourceTree = "<group>"; };
@@ -376,7 +380,9 @@
 				EF72F60F263F515200D54CF1 /* SpotifyLoginScreen.png */,
 				EF72F614263F546800D54CF1 /* SpotifyAddRemoveDemo.gif */,
 				EF72F612263F545F00D54CF1 /* SpotifyHomeScreenDemo.gif */,
-				EF72F615263F546B00D54CF1 /* SpotifySearchToLibraryDemo.gif */,
+				EF72F615263F546B00D54CF1 /* SpotifyLibraryDemo.gif */,
+				EF72F62F263F64C800D54CF1 /* SpotifySearchTilesDemo.gif */,
+				EF72F62E263F64C500D54CF1 /* SpotifySearchToLibraryDemo.gif */,
 			);
 			path = Media;
 			sourceTree = "<group>";
@@ -443,9 +449,11 @@
 				EF72F616263F546B00D54CF1 /* SpotifyHomeScreenDemo.gif in Resources */,
 				EF72F610263F515200D54CF1 /* SpotifyLoginScreen.png in Resources */,
 				EF6CA57725E4635200C5491F /* LaunchScreen.storyboard in Resources */,
-				EF72F619263F546B00D54CF1 /* SpotifySearchToLibraryDemo.gif in Resources */,
+				EF72F630263F64C800D54CF1 /* SpotifySearchToLibraryDemo.gif in Resources */,
+				EF72F619263F546B00D54CF1 /* SpotifyLibraryDemo.gif in Resources */,
 				EF72F60D263F514700D54CF1 /* SpotifyFirstLaunchScreen.png in Resources */,
 				EF72F618263F546B00D54CF1 /* SpotifyAddRemoveDemo.gif in Resources */,
+				EF72F631263F64C800D54CF1 /* SpotifySearchTilesDemo.gif in Resources */,
 				EF6CA57425E4635200C5491F /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
