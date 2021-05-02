@@ -8,9 +8,21 @@ A Spotify Clone application made using Spotify's Web APIs
 </p>
 
 
+
+Home Screen:
+
+<p align="center">
+  <img src=Spotify/Media/SpotifyHomeScreenDemo.gif height="600">
+</p>
+
+
 The applications allows users to login to their spotify account and perform actions such as:
 
 searchings for songs, artists, or albums
+
+<p align="center">
+  <img src=Spotify/Media/SpotifySearchToLibraryDemo.gif height="600">
+</p>
 
 addings songs to a playlist
 
@@ -25,9 +37,9 @@ deleting albums from their library
 </p>
 
 
-
-Displays feature playlist, new releases and recommended songs for user in the home page 
+playing songs in their library
 
 <p align="center">
-  <img src=Spotify/Media/SpotifyHomeScreenDemo.gif height="600">
+  <img src=Spotify/Media/SpotifyLibraryDemo.gif height="600">
 </p>
+ 
